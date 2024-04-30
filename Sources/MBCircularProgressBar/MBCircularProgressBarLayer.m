@@ -6,9 +6,6 @@
 //  Copyright (c) 2015 Mati Bot All rights reserved.
 //
 
-@import UIKit;
-@import CoreGraphics;
-
 #import "MBCircularProgressBarLayer.h"
 
 @implementation MBCircularProgressBarLayer

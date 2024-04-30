@@ -6,6 +6,7 @@
 //  Copyright (c) 2015 Mati Bot All rights reserved.
 //
 
+@import UIKit;
 @import QuartzCore;
 
 typedef NS_ENUM(NSInteger, MBCircularProgressBarAppearanceType) {
